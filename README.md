@@ -1,4 +1,6 @@
-👋 Hi, I’m @HashimsGitHub , I am a Certified: 
+👋 Hi, I’m @HashimsGitHub ,
+
+I am a Certified: 
  - Microsoft Certified Azure Solutions Architect - Expert
  - AWS Certified Solutions Architect – Associate
  - Oracle Cloud Infrastructure Certified Architect - Associate
@@ -10,9 +12,9 @@
  - Microsoft Certified – Azure Fundamentals
  - Certified Rancher Operation : Level One
  
- - Certified Project Management Professional
- - Certified SCRUM Master
- - Certified SAFe (Scaled Agile Framework) 5.0 DevOps Practitioner
+ - Experienced Project Management Professional
+ - Experienced SCRUM Master
+ - Experienced SAFe (Scaled Agile Framework) 5.0 DevOps Practitioner
 
 - 👀 I’m interested in Cloud Architecture & Design, Kubernetes, Web Applications, Kubeflow
 - 🌱 I’m currently learning various Microservices & Cloud Architectures 
