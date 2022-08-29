@@ -19,7 +19,7 @@ I am a Certified:
 - 👀 I’m interested in Cloud Architecture & Design, Kubernetes, Web Applications, Kubeflow
 - 🌱 I’m currently learning various Microservices & Cloud Architectures 
 - 💞️ I’m looking to collaborate on Cloud Native Technologies 
-- 📫 How to reach me ... hhilal@nyit.edu
+- 📫 How to reach me ... h.hilal@oracanada.ca
 
 <!---
 HashimsGitHub/HashimsGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
