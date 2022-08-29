@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HashimsGitHub , I am a Certified: 
+👋 Hi, I’m @HashimsGitHub , I am a Certified: 
  - Microsoft Certified Azure Solutions Architect - Expert
  - AWS Certified Solutions Architect – Associate
  - Oracle Cloud Infrastructure Certified Architect - Associate
