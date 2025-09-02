@@ -25,6 +25,7 @@ I hold the following Management credentials:
  - SCRUM Master
  - SAFe (Scaled Agile Framework) 6.0 DevOps Practitioner
 
+Hobbies / Interests:
 - 👀 Interested in Cloud Architecture & Design, Kubernetes, Web Applications, AI/ML
 - 🌱 Currently studying Masters in Artificial Intellegence 
 - 💞️ Python AI/ML coding and collaboration on AI & Cloud Native Technologies 
