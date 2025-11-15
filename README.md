@@ -1,6 +1,6 @@
 👋 Hi, Welcome to @HashimsGitHub ,
 
-Certified Cloud Architect, Azure Fabric and AI Foundry technologist.  
+Certified Cloud Architect, Azure Fabric Analytics Engineer and AI technologist.  
 
 I hold the following ICT credentials:  
  - TOGAF 10 Enterprise Architect
