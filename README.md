@@ -2,7 +2,7 @@
 
 **Enterprise Cloud Architect | Azure Fabric Analytics Engineer | AI Technologist**
 
-I'm a certified cloud solutions expert with deep expertise in enterprise architecture, cloud infrastructure, and artificial intelligence. With credentials spanning AWS, Azure, Google Cloud, and Oracle Cloud, I architect scalable, resilient solutions that drive digital transformation for global organizations.
+I'm a certified Cloud Solutions Architect Expert with deep expertise in Enterprise Architecture, Cloud Infrastructure and Artificial Intelligence. With credentials across Azure, AWS, Google Cloud, and Oracle Cloud; I architect scalable, resilient solutions that drive digital transformation for large scale enterprises.
 
 ---
 
@@ -79,7 +79,7 @@ I'm always interested in discussing innovative cloud and AI projects, enterprise
 
 ---
 
-*Building the future of enterprise technology through cloud innovation and artificial intelligence.*
+*Building the future of enterprise technology through Cloud innovation and Artificial Intelligence.*
 
 ---
 
