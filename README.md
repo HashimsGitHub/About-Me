@@ -32,6 +32,7 @@ I specialize in designing and implementing enterprise-grade cloud architectures 
 
 ### Data & AI
 - **Microsoft Certified: Fabric Analytics Engineer Associate**
+- **Microsoft Certified: Azure AI Engineer Associate**
 - **Microsoft Certified: Azure AI Fundamentals**
 - **Microsoft Certified: Azure Data Fundamentals**
 - **Google AI Essentials**
