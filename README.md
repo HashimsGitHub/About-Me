@@ -88,18 +88,6 @@ Leadership & Delivery          PMP · Scrum Master · SAFe DevOps · Agile
 
 ---
 
-## 🗂️ Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Azure NSG — JSON to Excel](https://github.com/HashimsGitHub/Azure-NSG---JSON-to-Excel-converter) | Convert NSG security rules into formatted Excel reports, sorted by direction and priority | Python · Streamlit |
-| [Azure Route Table — JSON to Excel](https://github.com/HashimsGitHub/Azure--Route-Table_JSON_to_Excel) | Parse route tables into structured Excel workbooks with routes, subnets, and metadata | Python · Streamlit |
-| [Azure Policy Definitions — JSON to Excel](https://github.com/HashimsGitHub/Azure--Policy-Definitions_JSON_to_Excel) | Transform Azure Policy JSON exports into clean, auditable Excel reports | Python · Streamlit |
-| [Restore Default Folders — Post OneDrive](https://github.com/HashimsGitHub/Restore-Default-Folders-Post-OneDrive) | PowerShell script to fix broken Windows folder paths after OneDrive uninstall | PowerShell |
-| [Azure Toolkit](https://github.com/HashimsGitHub/Azure-Toolkit) | Collection of PowerShell utilities for Azure cloud operations | PowerShell |
-| [DevOps Toolkit](https://github.com/HashimsGitHub/DevOps-Toolkit) | Jupyter-based tools and scripts for DevOps workflows | Jupyter · Python |
-
----
 
 ## 🛠️ Tech Stack
 
