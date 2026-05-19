@@ -1,109 +1,157 @@
-# Hashim Hilal – Enterprise Technology Profile
+<div align="center">
 
-**Role:** Enterprise Cloud Architect | Fabric Analytics Engineer | AI Technologist  
-**Focus Areas:** Multi-Cloud Strategy · AI Engineering · Data Lakehouse · Enterprise Architecture
+# 👋 Hi, I'm Hashim Hilal
+
+### Enterprise Cloud Architect · Azure Fabric Analytics Engineer · AI Technologist
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashimhilal)
+[![Email](https://img.shields.io/badge/Email-hashim.hilal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashim.hilal@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-HashimsGitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HashimsGitHub)
+
+<br/>
+
+*Building the future of enterprise technology through Cloud innovation and Artificial Intelligence.*
+
+</div>
 
 ---
 
-## Executive Summary
+## 🧭 About Me
 
-Hashim Hilal is a certified **Cloud Solutions Architect Expert** with validated expertise across Azure, AWS, GCP, and Oracle Cloud. His work focuses on enterprise-grade digital transformation, combining technical depth in cloud-native systems with strategic alignment to business outcomes.
+I'm a certified Cloud Solutions Architect Expert with deep expertise spanning enterprise architecture, cloud infrastructure, and artificial intelligence. With credentials across Azure, AWS, Google Cloud, and Oracle Cloud, I design scalable, resilient solutions that drive digital transformation for large-scale enterprises.
 
-Currently pursuing a **Master’s in Artificial Intelligence**, Hashim operates at the intersection of intelligent systems and production-scale cloud infrastructure.
+My approach sits at the intersection of strategic business alignment and technical depth — architecting platforms that don't just work today, but scale into tomorrow. Currently pursuing a **Master's in Artificial Intelligence** to continue pushing the boundary between enterprise cloud and intelligent systems.
 
 ---
 
-## Core Capabilities
+## 🎯 Core Competencies
 
-| Domain | Technologies & Practices |
+```
+Multi-Cloud Architecture       Azure · AWS · GCP · Oracle Cloud
+AI / ML Engineering            LLMs · Computer Vision · Predictive Analytics · MLOps
+Data & Analytics               Microsoft Fabric · Data Lakehouse · Warehouse Engineering
+Cloud-Native Development       Kubernetes · Containers · Serverless · IaC
+Enterprise Architecture        TOGAF · Digital Transformation · Solution Design
+Leadership & Delivery          PMP · Scrum Master · SAFe DevOps · Agile
+```
+
+---
+
+## 🏆 Certifications
+
+### ☁️ Cloud Architecture
+| Certification | Issuer |
 |---|---|
-| Multi-Cloud Architecture | Azure, AWS, GCP, Oracle |
-| AI & ML Engineering | LLMs, Computer Vision, MLOps, Predictive Analytics |
-| Data & Analytics | Microsoft Fabric, Lakehouse, Warehouse Engineering |
-| Cloud-Native Development | Kubernetes, Serverless, Terraform, IaC |
-| Enterprise Architecture | TOGAF 10, Solution Design, Digital Transformation |
-| Delivery Leadership | PMP, Scrum Master, SAFe DevOps |
+| TOGAF 10 Enterprise Architect | The Open Group |
+| Azure Solutions Architect Expert | Microsoft |
+| OCI Architect Professional | Oracle |
+| OCI Architect Associate | Oracle |
+| AWS Solutions Architect – Associate | Amazon Web Services |
+| Associate Cloud Engineer | Google Cloud |
+
+### 🤖 Data & AI
+| Certification | Issuer |
+|---|---|
+| Fabric Analytics Engineer Associate | Microsoft |
+| Azure AI Engineer Associate | Microsoft |
+| Azure AI Fundamentals | Microsoft |
+| Azure Data Fundamentals | Microsoft |
+| AI Essentials | Google |
+
+### 🌐 Cloud Foundations & Leadership
+| Certification | Issuer |
+|---|---|
+| Microsoft Certified Trainer (MCT) | Microsoft |
+| Azure Fundamentals | Microsoft |
+| AWS Cloud Practitioner | Amazon Web Services |
+| Google Cloud Certified — G Suite | Google |
+| Certified SUSE Rancher Kubernetes Operator | SUSE |
+
+### 📋 Management & Delivery
+| Certification | Issuer |
+|---|---|
+| MBA — General Management | NYIT, USA |
+| Project Management Professional (PMP) | PMI |
+| Certified Scrum Master | Scrum Alliance |
+| SAFe 6.0 DevOps Practitioner | Scaled Agile |
 
 ---
 
-## Certifications (Active)
+## 🚀 What I'm Working On
 
-### Cloud Architecture
-- TOGAF 10 Enterprise Architect – The Open Group
-- Azure Solutions Architect Expert – Microsoft
-- OCI Architect Professional / Associate – Oracle
-- AWS Solutions Architect – Associate
-- Associate Cloud Engineer – Google Cloud
-
-### Data & AI
-- Fabric Analytics Engineer Associate – Microsoft
-- Azure AI Engineer Associate – Microsoft
-- Azure AI / Data Fundamentals – Microsoft
-- AI Essentials – Google
-
-### Cloud Foundations & Leadership
-- Microsoft Certified Trainer (MCT)
-- Azure / AWS / GCP / SUSE Rancher (K8s Operator)
-- MBA – General Management, NYIT
-
-### Management & Delivery
-- PMP – PMI
-- Certified Scrum Master – Scrum Alliance
-- SAFe 6.0 DevOps Practitioner – Scaled Agile
+- 🎓 **Master's in Artificial Intelligence** — deepening ML/AI research and applied engineering
+- 🐍 **Python AI/ML frameworks** — building intelligent tools and automation solutions
+- ☁️ **Cloud-native architectures** — Kubernetes-orchestrated, event-driven systems at enterprise scale
+- 🤝 **Open to collaboration** on AI, cloud infrastructure, data analytics, and DevOps projects
 
 ---
 
-## Current Workstreams
+## 🗂️ Featured Projects
 
-| Initiative | Status | Description |
+| Project | Description | Tech |
 |---|---|---|
-| Master’s in AI | In Progress | Research & applied engineering in ML/AI |
-| Python AI Tooling | Active | Internal automation & intelligent agents |
-| Cloud-Native Reference Arch | Active | Kubernetes + event-driven enterprise patterns |
-| Open Collaboration | Accepting | AI, cloud infra, data analytics, DevOps |
+| [Azure NSG — JSON to Excel](https://github.com/HashimsGitHub/Azure-NSG---JSON-to-Excel-converter) | Convert NSG security rules into formatted Excel reports, sorted by direction and priority | Python · Streamlit |
+| [Azure Route Table — JSON to Excel](https://github.com/HashimsGitHub/Azure--Route-Table_JSON_to_Excel) | Parse route tables into structured Excel workbooks with routes, subnets, and metadata | Python · Streamlit |
+| [Azure Policy Definitions — JSON to Excel](https://github.com/HashimsGitHub/Azure--Policy-Definitions_JSON_to_Excel) | Transform Azure Policy JSON exports into clean, auditable Excel reports | Python · Streamlit |
+| [Restore Default Folders — Post OneDrive](https://github.com/HashimsGitHub/Restore-Default-Folders-Post-OneDrive) | PowerShell script to fix broken Windows folder paths after OneDrive uninstall | PowerShell |
+| [Azure Toolkit](https://github.com/HashimsGitHub/Azure-Toolkit) | Collection of PowerShell utilities for Azure cloud operations | PowerShell |
+| [DevOps Toolkit](https://github.com/HashimsGitHub/DevOps-Toolkit) | Jupyter-based tools and scripts for DevOps workflows | Jupyter · Python |
 
 ---
 
+## 🛠️ Tech Stack
 
-## Technology Inventory
+**Cloud Platforms**
 
-**Cloud Platforms**  
-Azure · AWS · GCP · Oracle Cloud
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-**Languages & Frameworks**  
-Python · PowerShell · Streamlit · Jupyter
+**Languages & Frameworks**
 
-**Infrastructure & DevOps**  
-Kubernetes · Docker · Terraform · GitHub Actions
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Data & AI**  
-Microsoft Fabric · pandas · OpenAI
+**Infrastructure & DevOps**
 
----
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## Strategic Interests
+**Data & AI**
 
-- Multi-cloud governance & cost optimization
-- LLM fine-tuning & deployment at scale
-- MLOps / LLMOps lifecycle automation
-- Data lakehouse architecture (Fabric)
-- Regulated industry solution design
-- DevSecOps & policy-as-code
-
----
-
-## Engagement & Contact
-
-Hashim is available for:
-- Enterprise architecture reviews
-- Cloud & AI advisory
-- Technical due diligence
-- Collaborative engineering
-
-**Email:** hashim.hilal@gmail.com  
-**LinkedIn:** linkedin.com/in/hashimhilal  
-**GitHub:** github.com/HashimsGitHub
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
-*Enterprise technology that scales — from infrastructure to intelligence.*
+## 💡 Areas of Interest
+
+**Architecture & Infrastructure** — Multi-cloud design · Kubernetes & container orchestration · Serverless computing · Infrastructure as Code · Cloud security
+
+**AI & Data** — Large Language Models · Computer Vision · Predictive analytics · MLOps pipelines · Microsoft Fabric · Data lakehouse engineering
+
+**Delivery** — Agile & SAFe at scale · DevSecOps · Enterprise digital transformation · Solution architecture for regulated industries
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to discussing innovative cloud and AI projects, enterprise architecture challenges, or potential collaborations.
+
+📧 **hashim.hilal@gmail.com**
+
+---
+
+<div align="center">
+
+*Architecting enterprise technology that scales — from infrastructure to intelligence.*
+
+</div>
