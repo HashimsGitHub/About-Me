@@ -12,10 +12,9 @@
 ---
 
 ## 🧭 About Me
+I'm a certified Cloud Solutions Architect Expert with 20+ years of experience spanning enterprise architecture, cloud infrastructure, and artificial intelligence. With deep credentials across Azure, AWS, Google Cloud, and Oracle Cloud, I design and implement scalable, resilient solutions that drive digital transformation for large-scale enterprises and worked in Fortune 500 companies.
 
-As an Azure Architect at DXC Technology, I deliver enterprise-grade cloud consulting engagements and lead technical architecture initiatives for Fortune 500 organizations. I'm a certified Cloud Solutions Architect Expert with 20+ years of experience spanning enterprise architecture, cloud infrastructure, and artificial intelligence. With deep credentials across Azure, AWS, Google Cloud, and Oracle Cloud, I design and implement scalable, resilient solutions that drive digital transformation for large-scale enterprises.
-
-My approach sits at the intersection of strategic business alignment and technical depth — architecting platforms that don't just work today, but scale into tomorrow. As an AI Forward Deployed Engineer in a customer-facing role, I translate complex business requirements into intelligent cloud solutions while mentoring teams and driving innovation. Currently pursuing a **Master's in Artificial Intelligence** to deepen ML/AI research and push the boundary between enterprise cloud and intelligent systems.
+My approach sits at the intersection of strategic business alignment and technical depth, architecting platforms that don't just work today, but scale into tomorrow. As an AI Forward Deployed Engineer in a customer-facing role, I translate complex business requirements into intelligent cloud solutions while mentoring teams and driving innovation. Currently pursuing a **Master's in Artificial Intelligence** to deepen ML/AI research and push the boundary between enterprise cloud and intelligent systems.
 
 ---
 
