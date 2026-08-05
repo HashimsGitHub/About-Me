@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Hashim Hilal
 
-### Azure Architect, Intelligent Infrastructure · AI Forward Deployed Engineer
+### Azure Architect Expert· Fabric Analytics Engineer · AI Forward Deployed Engineer
 
 
 *Building enterprise-grade intelligent cloud solutions that drive digital transformation. Customer-facing innovator architecting scalable, AI-powered infrastructure for tomorrow's enterprises.*
