@@ -24,7 +24,6 @@ My approach sits at the intersection of strategic business alignment and technic
 ```
 Azure Architecture             Intelligent Infrastructure · Reference Architectures · MVP Implementation
 Multi-Cloud Architecture       Azure · AWS · GCP · Oracle Cloud · Hybrid Cloud Design
-AI / ML Engineering            LLMs · Computer Vision · Predictive Analytics · MLOps · Agentic AI
 Data & Analytics               Microsoft Fabric · Databricks · Data Lakehouse · Warehouse Engineering
 Cloud-Native Development       Kubernetes · Containers · Serverless · Infrastructure as Code
 Enterprise Architecture        TOGAF · Digital Transformation · Solution Design · Customer Engagement
@@ -33,7 +32,18 @@ Customer Success & Delivery    Technical Consulting · Design Review Workshops �
 
 ---
 
-## 🏆 Certifications
+## 🤖 AI & Machine Learning Competencies
+
+```
+Generative AI & LLMs           Prompt Engineering · Agentic AI · AI Applications · Responsible AI
+Machine Learning              Computer Vision · Predictive Analytics · MLOps Pipelines
+AI Engineering                LLM Fine-tuning · RAG Systems · AI Model Deployment
+Data Science & Analytics      Statistical Analysis · Data-Driven Insights · Business Intelligence
+```
+
+---
+
+## 🏆 Certifications & Credentials
 
 ### ☁️ Cloud Architecture
 | Certification | Issuer |
@@ -45,14 +55,17 @@ Customer Success & Delivery    Technical Consulting · Design Review Workshops �
 | AWS Solutions Architect – Associate | Amazon Web Services |
 | Associate Cloud Engineer | Google Cloud |
 
-### 🤖 Data & AI
+### 🤖 AI & Machine Learning
 | Certification | Issuer |
 |---|---|
-| Fabric Analytics Engineer Associate | Microsoft |
 | Azure AI Engineer Associate | Microsoft |
+| Fabric Analytics Engineer Associate | Microsoft |
 | Azure AI Fundamentals | Microsoft |
 | Azure Data Fundamentals | Microsoft |
 | AI Essentials | Google |
+| AI in the Data Center | NVIDIA |
+| Practical Applications of Gen AI for Project Managers | PMI |
+| Prompt Engineering for Project Managers | PMI |
 
 ### 🌐 Cloud Foundations & Leadership
 | Certification | Issuer |
@@ -65,11 +78,12 @@ Customer Success & Delivery    Technical Consulting · Design Review Workshops �
 
 ### 📋 Management & Delivery
 | Certification | Issuer |
-|---|---|
+|---|---| 
 | MBA — General Management | NYIT, USA |
 | Project Management Professional (PMP) | PMI |
 | Certified Scrum Master | Scrum Alliance |
 | SAFe 6.0 DevOps Practitioner | Scaled Agile |
+| SAFe 6.0 Agilist | Scaled Agile |
 
 ---
 
