@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm Hashim Hilal
 
-### Enterprise Cloud Architect · Azure Fabric Analytics Engineer · AI Forward Deployed Engineer
+### Azure Architect, Intelligent Infrastructure · AI Forward Deployed Engineer
 
 
-*Building the future of enterprise technology through Cloud innovation and Artificial Intelligence.*
+*Building enterprise-grade intelligent cloud solutions that drive digital transformation. Customer-facing innovator architecting scalable, AI-powered infrastructure for tomorrow's enterprises.*
 
 </div>
 
@@ -13,21 +13,22 @@
 
 ## 🧭 About Me
 
-I'm a certified Cloud Solutions Architect Expert with deep expertise spanning enterprise architecture, cloud infrastructure, and artificial intelligence. With credentials across Azure, AWS, Google Cloud, and Oracle Cloud, I design scalable, resilient solutions that drive digital transformation for large-scale enterprises.
+As an Azure Architect at DXC Technology, I deliver enterprise-grade cloud consulting engagements and lead technical architecture initiatives for Fortune 500 organizations. I'm a certified Cloud Solutions Architect Expert with 20+ years of experience spanning enterprise architecture, cloud infrastructure, and artificial intelligence. With deep credentials across Azure, AWS, Google Cloud, and Oracle Cloud, I design and implement scalable, resilient solutions that drive digital transformation for large-scale enterprises.
 
-My approach sits at the intersection of strategic business alignment and technical depth — architecting platforms that don't just work today, but scale into tomorrow. Currently pursuing a **Master's in Artificial Intelligence** to continue pushing the boundary between enterprise cloud and intelligent systems.
+My approach sits at the intersection of strategic business alignment and technical depth — architecting platforms that don't just work today, but scale into tomorrow. As an AI Forward Deployed Engineer in a customer-facing role, I translate complex business requirements into intelligent cloud solutions while mentoring teams and driving innovation. Currently pursuing a **Master's in Artificial Intelligence** to deepen ML/AI research and push the boundary between enterprise cloud and intelligent systems.
 
 ---
 
 ## 🎯 Core Competencies
 
 ```
-Multi-Cloud Architecture       Azure · AWS · GCP · Oracle Cloud
-AI / ML Engineering            LLMs · Computer Vision · Predictive Analytics · MLOps
-Data & Analytics               Microsoft Fabric · Data Lakehouse · Warehouse Engineering
-Cloud-Native Development       Kubernetes · Containers · Serverless · IaC
-Enterprise Architecture        TOGAF · Digital Transformation · Solution Design
-Leadership & Delivery          PMP · Scrum Master · SAFe DevOps · Agile
+Azure Architecture             Intelligent Infrastructure · Reference Architectures · MVP Implementation
+Multi-Cloud Architecture       Azure · AWS · GCP · Oracle Cloud · Hybrid Cloud Design
+AI / ML Engineering            LLMs · Computer Vision · Predictive Analytics · MLOps · Agentic AI
+Data & Analytics               Microsoft Fabric · Databricks · Data Lakehouse · Warehouse Engineering
+Cloud-Native Development       Kubernetes · Containers · Serverless · Infrastructure as Code
+Enterprise Architecture        TOGAF · Digital Transformation · Solution Design · Customer Engagement
+Customer Success & Delivery    Technical Consulting · Design Review Workshops · Mentorship · PMP · SAFe
 ```
 
 ---
@@ -72,12 +73,22 @@ Leadership & Delivery          PMP · Scrum Master · SAFe DevOps · Agile
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Recent AI Achievements
+
+- **AzureSphere** — Enterprise Connectivity Diagnostic Platform validating multi-protocol connectivity (TLS, DNS, TCP, SAP BTP, AS2, SMB) with containerized agents, real-time telemetry, and protocol simulation
+- **UbuntuBox** — One-click Windows installer delivering full Ubuntu Linux terminal via Podman with native VS Code integration
+- **J.A.R.V.I.S** — Voice-activated Agentic AI companion for students supporting class scheduling, assignments, and campus navigation
+- **SSL Check Tool** — HTTPS diagnostic tool providing comprehensive TLS inspection, certificate security analysis, and HTML report generation
+- **Nebula Drive** — Cloud-based file management application on Azure SMB File Shares delivering seamless NAS experience
+- **Azure Updates** — Real-time Streamlit web app tracking newly launched Azure services and features
+- **AI Bank Statement Analyser** — Financial intelligence application transforming bank statements into actionable insights using multiple AI models
+
+## 🚀 Current Focus
 
 - 🎓 **Master's in Artificial Intelligence** — deepening ML/AI research and applied engineering
-- 🐍 **Python AI/ML frameworks** — building intelligent tools and automation solutions
-- ☁️ **Cloud-native architectures** — Kubernetes-orchestrated, event-driven systems at enterprise scale
-- 🤝 **Open to collaboration** on AI, cloud infrastructure, data analytics, and DevOps projects
+- ☁️ **Intelligent Infrastructure** — designing AI-powered cloud architectures at enterprise scale
+- 🤝 **Customer-Facing Innovation** — delivering transformative cloud solutions and architecting next-gen platforms
+- 🐍 **Advanced AI/ML Engineering** — LLMs, computer vision, predictive analytics, and MLOps pipelines
 
 ---
 
