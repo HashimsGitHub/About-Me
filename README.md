@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Hashim Hilal
 
-### Enterprise Cloud Architect · Azure Fabric Analytics Engineer · AI Technologist
+### Enterprise Cloud Architect · Azure Fabric Analytics Engineer · AI Forward Deployed Engineer
 
 
 *Building the future of enterprise technology through Cloud innovation and Artificial Intelligence.*
