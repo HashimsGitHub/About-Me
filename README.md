@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Hashim Hilal
+# 👋 Hi, 
 
 ### Azure Architect Expert· Fabric Analytics Engineer · AI Forward Deployed Engineer
 
