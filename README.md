@@ -1,15 +1,22 @@
 <div align="center">
 
-# 👋 Hi, 
+# 👋 Hi, I'm Hashim Hilal
 
-### Azure Architect Expert· Fabric Analytics Engineer · AI Forward Deployed Engineer
-
+### Azure Architect Expert · Fabric Analytics Engineer · AI Forward Deployed Engineer
 
 *Building enterprise-grade intelligent cloud solutions that drive digital transformation. Customer-facing innovator architecting scalable, AI-powered infrastructure for tomorrow's enterprises.*
+
+---
+
+### 🌐 Explore My Live Portfolio Sites & Interactive Projects
+🚀 **[Main Professional Portfolio Site](https://github.io)** │ 🎓 **[QUT Academic & Research Portfolio](https://github.io)**
+
+---
 
 </div>
 
 ---
+
 
 ## 🧭 About Me
 I'm a certified Cloud Solutions Architect Expert with 20+ years of experience spanning enterprise architecture, cloud infrastructure, and artificial intelligence. With deep credentials across Azure, AWS, Google Cloud, and Oracle Cloud, I design and implement scalable, resilient solutions that drive digital transformation for large-scale enterprises and worked in Fortune 500 companies.
