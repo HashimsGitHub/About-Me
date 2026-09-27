@@ -9,7 +9,7 @@
 ---
 
 ### 🌐 Explore My Live Portfolio Sites & Interactive Projects
-🚀 **[Main Professional Portfolio Site](https://github.io)** │ 🎓 **[QUT Academic & Research Portfolio](https://github.io)**
+🚀 **[Main Professional Portfolio Site](https://hashimsgithub.github.io/)** │ 🎓 **[QUT Academic & Research Portfolio](https://hashimhilal-qut.github.io/)**
 
 ---
 
